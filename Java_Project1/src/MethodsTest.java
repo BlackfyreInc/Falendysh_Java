@@ -61,11 +61,7 @@ class MethodsTest {
         printWriter.print(histogram);
 
     }
-
-    void plotTest(){
-        histogram.plot();
-    }
-
+    
     /** Test for all Histogram methods.
      *
      */
