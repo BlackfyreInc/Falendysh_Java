@@ -9,7 +9,6 @@ public class main_test {
         //methodsTest.ExpandTest();
         //methodsTest.IntervalOnlyTest();
         methodsTest.describeTest();
-        methodsTest.plotTest();
         //methodsTest.resizeTest();
         methodsTest.printWriter.close();
     }
